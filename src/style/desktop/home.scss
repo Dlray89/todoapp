@@ -1,0 +1,17 @@
+.App-light {
+
+    background-image: url('../../images/bg-desktop-light.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 50%, cover;
+    height: 44.5em;
+}
+
+.App-dark {
+    background-image: url('../../images/bg-desktop-dark.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 50%, cover;
+    height: 44.5em;
+    background-color: #141625;
+}
